@@ -9,8 +9,8 @@ const Heading = () => {
             <p><strong>Efficiency Analytics</strong></p>
             <div className="heading-right">
                 <div className="search">
-                    <img src={Search} alt="" className="search" />
-                    <input type="search" placeholder="Search" />
+                    <img src={Search} alt="" className="icon-search" />
+                    <input type="search" placeholder="Search" className="search-input"/>
                 </div>
                 <div className="filter">
                     <select>

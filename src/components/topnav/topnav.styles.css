@@ -1,0 +1,41 @@
+.topnav{
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5em;
+    border-bottom: 1px solid #ecebf5;
+}
+.input{
+    display: flex;
+}
+input{
+    background: #fafafc;
+    border: none;
+    border-radius: 8px;
+    width: 25vw;
+}
+input::placeholder{
+    padding-left: 2em;
+}
+.search-icon{
+    height: 3vh;
+    margin: 2.5% 0 0 -10%;
+}
+.topnav-right{
+    display: flex;
+    border: 1px solid #ecebf5;
+    border-radius: 5px;
+    padding: 0.5em;
+    width: 8vw;
+}
+.notification{
+    height: 3vh;
+    margin-top: 5%;
+}
+.down{
+    height: 0.7vh;
+    width: 0.7vw;
+    margin: 8% 0 0 5%;
+}
+.circle{
+    height: 4vh;
+}

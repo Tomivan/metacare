@@ -8,7 +8,6 @@ const Subnav = () => {
             <p>Volume</p>
             <p>Customer Satisfaction</p>
             <p>Backlog</p>
-            <hr />
         </div>
     )
 }

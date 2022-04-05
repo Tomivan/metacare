@@ -1,0 +1,38 @@
+.heading{
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+}
+.heading-right{
+    display: flex;
+    justify-content: space-between;
+    width: 43vw;
+}
+.search{
+    display: flex;
+}
+.search input{
+    background: #ffffff;
+    height: 5vh;
+    border: 1px solid #e5e5e5;
+}
+.icon-search{
+    height: 2vh;
+    position: relative;
+    left: 7%;
+    top: 20%;
+}
+select{
+    height: 5vh;
+    border: 1px solid #e5e5e5;
+    border-radius: 5px;
+    width: 7vw;
+}
+.export{
+    background: #25bb87;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    height: 5vh;
+    width: 6vw;
+}

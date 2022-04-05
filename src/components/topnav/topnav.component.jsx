@@ -2,6 +2,7 @@ import React from "react";
 import Search from "../../assets/images/search.png";
 import Notification from "../../assets/images/notification.png";
 import Circle from "../../assets/images/circle.png";
+import Down from "../../assets/images/down.png";
 import "./topnav.styles.css";
 
 const Topnav = () => {
@@ -13,9 +14,10 @@ const Topnav = () => {
             </div>
             <div className="topnav-right">
                 <img src={Notification} alt="" className="notification" />
+                <hr />
                 <img src={Circle} alt="" className="circle" />
+                <img src={Down} alt="" className="down" />
             </div>
-            <hr />
         </div>
     )
 }

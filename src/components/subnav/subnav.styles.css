@@ -1,0 +1,9 @@
+.subnav{
+    display: flex;
+    padding: 1em;
+    border-bottom: 1px solid #e5e5e5;
+    height: 4vh;
+}
+.subnav p{
+    margin-right: 3%;
+}

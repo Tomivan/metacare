@@ -1,0 +1,22 @@
+.sidenav{
+    padding: 1em;
+    border-right: 1px solid #ecebf5;
+    height: auto;
+    width: 16vw;
+}
+.metacare{
+    border: 1px solid #ecebf5;
+    border-radius: 5px;
+    padding: 0.5em;
+}
+ul{
+    list-style-type: none;
+    text-align: left;
+    margin-left: -20%;
+}
+.nav-icon{
+    margin-right: 5%;
+}
+li{
+    margin-bottom: 8%;
+}
